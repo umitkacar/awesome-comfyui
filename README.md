@@ -1084,8 +1084,9 @@ ______________________________________________________________________
 
 <table>
 <tr>
-<th width="50%">🌥️ Comflowy</th>
-<th width="50%">⚡ RunComfy</th>
+<th width="33%">🌥️ Comflowy</th>
+<th width="33%">⚡ RunComfy</th>
+<th width="33%">🌅 Hinode</th>
 </tr>
 <tr>
 <td valign="top">
@@ -1110,6 +1111,18 @@ ______________________________________________________________________
 - ✅ Fast deployment
 
 [Visit RunComfy](https://www.runcomfy.com)
+
+</td>
+<td valign="top">
+
+**Features:**
+
+- ✅ ComfyUI installs in one click
+- ✅ L4, L40S or RTX PRO 6000 (24-96 GB VRAM)
+- ✅ Files and installed apps persist
+- ✅ Per-minute billing, pauses when idle
+
+[Visit Hinode](https://hinode.run)
 
 </td>
 </tr>
