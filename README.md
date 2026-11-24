@@ -1132,7 +1132,8 @@ ______________________________________________________________________
 | Resource                                                               | Purpose                           |
 | ---------------------------------------------------------------------- | --------------------------------- |
 | [Top 100 ComfyUI](https://github.com/liusida/top-100-comfyui)          | Auto-updated ranking of top repos |
-| [Awesome ComfyUI](https://github.com/ComfyUI-Workflow/awesome-comfyui) | Curated node collection           |
+| [Awesome ComfyUI](https://github.com/ComfyUI-Workflow/awesome-comfyui) | Curated node collection |
+| [InferCalc](https://infercalc.com) | Free VRAM, KV cache, and inference cost calculator for local LLMs (Llama, DeepSeek, Qwen) and ComfyUI workflows.           |
 
 ______________________________________________________________________
 
